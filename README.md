@@ -22,8 +22,6 @@ WeatherApp follows the MVVM (Model-View-ViewModel) architecture pattern, which p
 
 - **NetworkManager**: The `NetworkManager` class is responsible for making HTTP requests to the weather API and handling the response. It uses the `URLSession` and Combine frameworks to perform network operations.
 
-- **SceneDelegate**: The `SceneDelegate` class is responsible for managing the app's scenes. It sets up the initial view and handles changes in the app's state.
-
 ## Dependencies
 
 The WeatherApp uses the following dependencies:
